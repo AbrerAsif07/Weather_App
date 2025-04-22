@@ -1,48 +1,49 @@
 Table of Contents
-Features
 
-Installation
+1. Features
+2. Installation
+3. Contributing
 
-Usage
 
-Contributing
+🚀 Features
+🌦️ Real-time Weather Forecast: Get current weather conditions for any city worldwide.
 
-License
+🔍 Search Functionality: Enter a city name to retrieve its weather data instantly.
 
-Features
+🧭 Detailed Weather Info: Includes temperature, weather condition (e.g., cloudy, sunny), humidity, and wind speed.
+
+🌍 Location-Specific Data: Displays the name of the city and country.
+
+📱 Responsive Design: Optimized for viewing on both desktop and mobile devices.
+
+⚡ Instant Data Fetching: Seamless API integration for quick and accurate weather updates.
 List of key features and functionalities.
 
-Highlight what makes your project stand out.​
+
 
 Installation
 Instructions to set up the project locally:​
 
-Clone the repository:​
+i.Clone the repository:​
 
-bash
-Copy
-Edit
 git clone https://github.com/AbrerAsif07/Weather_App.git
-Navigate to the project directory:​
 
-bash
-Copy
-Edit
+
+ii.Navigate to the project directory:​
+
 cd Weather_App
-Install dependencies:​
 
-bash
-Copy
-Edit
+
+iii.Install dependencies:​
+
 npm install
-Start the development server:​
 
-bash
-Copy
-Edit
+
+iv.Start the development server:​
+
 npm start
-Usage
-Provide examples and instructions on how to use your project effectively. Include code snippets, screenshots, or any relevant information that helps users understand and utilize your project.​
+
+
 
 Contributing
 Contributions are welcome! Please follow these steps:​
@@ -58,4 +59,4 @@ Push to the branch: git push origin feature/YourFeature
 Open a pull request.​
 
 Ensure your code adheres to the project's coding standards and includes relevant tests.​
-e.
+
